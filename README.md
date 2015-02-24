@@ -36,10 +36,11 @@ npm i superscript-number
 
 # API
 
-#### `var str = require('superscript-number')(x)`
+#### `var str = require('superscript-number')(x[, base])`
 Converts a number to a superscript string
 
 * `x` is a number
+* `base` is an integer between 2 and 36 represeting the base of the output
 
 **Returns** a superscript string printing out `x`
 
