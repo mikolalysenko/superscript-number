@@ -1,0 +1,31 @@
+{
+  "name": "superscript-number",
+  "version": "1.0.0",
+  "description": "Converts a number to superscript format",
+  "main": "ssnum.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikolalysenko/superscript-number.git"
+  },
+  "keywords": [
+    "super",
+    "script",
+    "superscript",
+    "number",
+    "pretty",
+    "print",
+    "exponent"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/superscript-number/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/superscript-number"
+}
